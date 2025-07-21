@@ -6,7 +6,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* Más rutas próximamente: /login, /registro, /producto/:id */}
+       
       </Routes>
     </Router>
   );
