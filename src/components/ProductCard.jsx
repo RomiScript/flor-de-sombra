@@ -1,9 +1,8 @@
 import React from 'react';
-import './ProductCard.css'
-
+import './ProductCard.css'; // vamos a crear este CSS también
 
 const ProductCard = ({ name, description, price, sku, image }) => {
-     return (
+  return (
     <div className="product-card">
       <img src={image} alt={name} className="product-image" />
       <div className="product-info">
@@ -13,7 +12,7 @@ const ProductCard = ({ name, description, price, sku, image }) => {
         <p className="product-price">${price}</p>
       </div>
     </div>
+  );
+};
 
-    );
-}
 export default ProductCard;

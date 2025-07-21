@@ -5,7 +5,7 @@ const products = [
     description: "Contiene pétalos encantados que absorben el estrés y la ansiedad. Ideal para rituales nocturnos.",
     price: 4200,
     sku: "MGC001",
-    image: "https://images.pexels.com/photos/9659890/pexels-photo-9659890.jpeg"
+    image: "https://images.pexels.com/photos/10653936/pexels-photo-10653936.jpeg"
   },
   {
     id: "2",
@@ -13,7 +13,7 @@ const products = [
     description: "Hecho con piedra obsidiana. Silencia pensamientos intrusivos durante 12 horas.",
     price: 6000,
     sku: "MGC002",
-    image: "https://images.pexels.com/photos/10340686/pexels-photo-10340686.jpeg"
+    image: "https://images.pexels.com/photos/8986702/pexels-photo-8986702.jpeg"
   },
   {
     id: "3",
@@ -21,7 +21,7 @@ const products = [
     description: "Al encenderla, ayuda a visualizar caminos ocultos y tomar decisiones sabias.",
     price: 3500,
     sku: "MGC003",
-    image: "https://images.pexels.com/photos/5732531/pexels-photo-5732531.jpeg"
+    image: "https://images.pexels.com/photos/29304643/pexels-photo-29304643.jpeg"
   },
   {
     id: "4",
@@ -29,7 +29,7 @@ const products = [
     description: "Conserva memorias felices y las activa al tocar el dije con el pulgar.",
     price: 5000,
     sku: "MGC004",
-    image: "https://images.pexels.com/photos/13960674/pexels-photo-13960674.jpeg"
+    image: "https://images.pexels.com/photos/7267149/pexels-photo-7267149.jpeg"
   },
   {
     id: "5",
@@ -37,7 +37,7 @@ const products = [
     description: "Usada para dormir profundamente y recordar los sueños con nitidez.",
     price: 4700,
     sku: "MGC005",
-    image: "https://images.pexels.com/photos/11346946/pexels-photo-11346946.jpeg"
+    image: "https://images.pexels.com/photos/7978810/pexels-photo-7978810.jpeg"
   },
   {
     id: "6",
@@ -45,8 +45,9 @@ const products = [
     description: "Herramienta de adivinación que vibra con energía personal y revela lo oculto.",
     price: 6500,
     sku: "MGC006",
-    image: "https://images.pexels.com/photos/10628894/pexels-photo-10628894.jpeg"
+    image: "https://images.pexels.com/photos/6512247/pexels-photo-6512247.jpeg"
   }
 ];
 
 export default products;
+
