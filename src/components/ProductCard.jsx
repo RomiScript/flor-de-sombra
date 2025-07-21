@@ -1,5 +1,5 @@
 import React from 'react';
-import 'ProductCard.css';
+import './ProductCard.css'
 
 
 const ProductCard = ({ name, description, price, sku, image }) => {
@@ -16,3 +16,4 @@ const ProductCard = ({ name, description, price, sku, image }) => {
 
     );
 }
+export default ProductCard;
