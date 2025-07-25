@@ -1,7 +1,7 @@
 import React from 'react';
 import products from '../data/products';
 import ProductCard from '../components/ProductCard';
-import './Home.css'; // Lo vamos a crear ahora
+import './Home.css'; 
 
 const Home = () => {
   return (
